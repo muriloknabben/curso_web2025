@@ -1,1 +1,1 @@
-# curso_web2025
+# curso básico de HTML, CSS e JS feito por mim em 2025
