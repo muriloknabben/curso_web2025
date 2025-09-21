@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    width: 50%;
+    background-color: #ccc;
+}
+
+h1 {
+    border: 2px solid red;
+    width: 25%;
+}
+
+a {
+    background-color: yellow;
+}
+
+strong {
+    /* padding: 25px; */
+    background-color: #00f;
+    display: inline-block;
+    height: 60px;
+    width: 50%;
+}
+
+b {
+    /* display: none;*/ /*o elemneto some junto ao espaço que ocupava */
+    visibility: hidden; /* o elemento some mas deixa o espaço que ocupava */
+}
