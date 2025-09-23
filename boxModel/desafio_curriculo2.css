@@ -16,6 +16,26 @@ h1 {
     text-align: center;
 }
 
+.links {
+    text-align: right;
+}
+
+.links li {
+    list-style: none;
+    display: inline-block;
+}
+
+.links a {
+    background-color: #00f;
+    padding: 16px;
+    border: 5px solid #000;
+    color: #000;
+}
+
+.links a:hover {
+    padding: 18px;
+}
+
 h2 {
     color: #006060;
     background-color: aqua;
@@ -23,6 +43,6 @@ h2 {
     padding: 5px;
 }
 
-li {
+.cursos li {
     font-weight: bolder;
 }

@@ -1,0 +1,10 @@
+body {
+    font-size: 200%;
+    line-height: 2;
+    color: white;
+    background: url(imagens/tile-pattern.png) red no-repeat fixed;
+}
+
+p {
+    margin-top: 150px;
+}
